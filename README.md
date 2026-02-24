@@ -1,15 +1,20 @@
-## Hi there 👋
+🏫 **School**  
+🎓 Master’s Student in Computer Science at Georgia Institute of Technology  
 
+📚 **Education**  
+🎓 Bachelor’s Degree in Computer Science  
 
-**ojas480/ojas480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 **Currently Working On**  
+🤖 AI-based Music Detection  
 
-Here are some ideas to get you started:
+🌱 **Interests Include**  
+🧠 Machine Learning  
+📊 Data Science  
+📐 Quantitative Finance  
+🧩 Theoretical Computer Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 **Contact Me**  
+✉️ ojaskrishwork@gmail.com  
+
+💻 **Website**  
+🌐 https://ojaskalra.com/
