@@ -1,20 +1,16 @@
-🏫 **School**  
-🎓 Master’s Student in Computer Science at Georgia Institute of Technology  
+**Education**
+- 🏫 Master’s in Computer Science — Georgia Institute of Technology
+- 🎓 Bachelor’s in Computer Science
 
-📚 **Education**  
-🎓 Bachelor’s Degree in Computer Science  
+**Currently Working On**
+- 🤖 AI-based music detection systems
 
-📈 **Currently Working On**  
-🤖 AI-based Music Detection  
+**Interests**
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📐 Quantitative Finance
+- 🧩 Theoretical Computer Science
 
-🌱 **Interests Include**  
-🧠 Machine Learning  
-📊 Data Science  
-📐 Quantitative Finance  
-🧩 Theoretical Computer Science  
-
-📫 **Contact Me**  
-✉️ ojaskrishwork@gmail.com  
-
-💻 **Website**  
-🌐 https://ojaskalra.com/
+**Contact & Links**
+- ✉️ Email: ojaskrishwork@gmail.com
+- 🌐 Website: https://ojaskalra.com/
